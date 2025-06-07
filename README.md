@@ -2,7 +2,7 @@
 <h3 align="center">💻 Final Year Computer Engineering Student | Web Developer | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FAD02E&center=true&vCenter=true&width=600&lines=💡+Final+Year+Coder+Crafting+the+Web;⚡+React+%7C+Java+%7C+C%2B%2B;📚+Lifelong+Learner+and+Builder;🚀+Preparing+for+the+Next+Big+Leap" alt="Typing SVG" />
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FAD02E&center=true&vCenter=true&width=600&lines=💡+Final+Year+Coder+Crafting+the+Web;⚡+React+%7C+Java+%7C+C%2B%2B;📚+Lifelong+Learner+and+Builder;🚀+Preparing+for+the+Next+Big+Leap)
 </p>
 
 ---
