@@ -2,8 +2,9 @@
 <h3 align="center">💻 Final Year Computer Engineering Student | Web Developer | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FAD02E&center=true&vCenter=true&width=600&lines=Hello+World;This+is+a+Typing+SVG!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FAD02E&center=true&vCenter=true&width=600&lines=Hello+World;This+is+a+Typing+SVG!" alt="Typing SVG" />
 </p>
+
 
 
 
