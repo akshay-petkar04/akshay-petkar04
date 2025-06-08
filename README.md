@@ -33,7 +33,15 @@ I love solving real-world problems through code, exploring new tech, and levelin
 
 
 
+### ⚒️ Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-%230075C2.svg?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/4uG6WzxeNM/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/akshay350)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300FF00.svg?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/akshaypendiv/)
+
 ---
+
+
 ### 🛠️ Tools I Use
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
@@ -47,13 +55,7 @@ I love solving real-world problems through code, exploring new tech, and levelin
 
 ---
 
-### ⚒️ Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-%230075C2.svg?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/4uG6WzxeNM/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/akshay350)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300FF00.svg?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/akshaypendiv/)
-
----
 
 ### 🌱 Currently Exploring
 
