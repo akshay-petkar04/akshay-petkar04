@@ -31,7 +31,7 @@ I love solving real-world problems through code, exploring new tech, and levelin
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-
+---
 
 ### ⚒️ Coding Profiles
 
