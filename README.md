@@ -5,10 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FAD02E&center=true&vCenter=true&width=600&lines=Hello+World;This+is+a+Typing+SVG!" alt="Typing SVG" />
 </p>
 
-
-
-
-
 ---
 
 ### 🧑‍💻 About Me
@@ -22,40 +18,48 @@ I love solving real-world problems through code, exploring new tech, and levelin
 
 ### 🔧 Tech Toolbox
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,cpp,mysql,github" />
+</p>
 
 ---
 
 ### ⚒️ Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-%230075C2.svg?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/4uG6WzxeNM/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/akshay350)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300FF00.svg?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/akshaypendiv/)
+<p align="center">
+  <a href="https://leetcode.com/u/4uG6WzxeNM/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%230075C2.svg?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/akshay350" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/akshaypendiv/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-%2300FF00.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-
 ### 🛠️ Tools I Use
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,netlify,vercel" />
+</p>
 
 ---
 
 ### 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-petkar-4a2b5926a/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshay-petkar04)
+<p align="center">
+  <a href="https://www.linkedin.com/in/akshay-petkar-4a2b5926a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/akshay-petkar04" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
-
-
 
 ### 🌱 Currently Exploring
 
@@ -96,9 +100,10 @@ I love solving real-world problems through code, exploring new tech, and levelin
 > — *Harold Abelson*
 
 ---
+
 ### 🧠 Fun Fact
 
-I believe consistent hard work, self-belief, and a well-planned routine can turn even the **wildest dreams into reality**. Let’s build it — one line of code at a time. 💯🔥
+I believe consistent hard work, self-belief, and a well-planned routine can turn even the **wildest dreams into reality**.  
+Let’s build it — one line of code at a time. 💯🔥
 
 ---
-
