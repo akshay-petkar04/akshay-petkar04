@@ -27,16 +27,19 @@ I love solving real-world problems through code, exploring new tech, and levelin
 ### ⚒️ Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/u/4uG6WzxeNM/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-%230075C2.svg?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <a href="https://leetcode.com/u/4uG6WzxeNM/" target="_blank" title="LeetCode">
+    <img src="https://skillicons.dev/icons?i=leetcode" height="50" />
   </a>
-  <a href="https://www.codechef.com/users/akshay350" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  &nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/akshay350" target="_blank" title="CodeChef">
+    <img src="https://img.icons8.com/ios-filled/50/5B4638/codechef.png" alt="CodeChef" height="50"/>
   </a>
-  <a href="https://www.geeksforgeeks.org/user/akshaypendiv/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-%2300FF00.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  &nbsp;&nbsp;
+  <a href="https://www.geeksforgeeks.org/user/akshaypendiv/" target="_blank" title="GeeksforGeeks">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="50"/>
   </a>
 </p>
+
 
 ---
 
