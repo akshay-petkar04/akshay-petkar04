@@ -28,17 +28,18 @@ I love solving real-world problems through code, exploring new tech, and levelin
 
 <p align="center">
   <a href="https://leetcode.com/u/4uG6WzxeNM/" target="_blank" title="LeetCode">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="50" />
+    <img src="https://skillicons.dev/icons?i=leetcode" height="48" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.codechef.com/users/akshay350" target="_blank" title="CodeChef">
-    <img src="https://img.icons8.com/ios-filled/50/5B4638/codechef.png" alt="CodeChef" height="50"/>
+    <img src="https://cdn.codechef.com/images/cc-logo.svg" alt="CodeChef" height="48"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.geeksforgeeks.org/user/akshaypendiv/" target="_blank" title="GeeksforGeeks">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="48"/>
   </a>
 </p>
+
 
 
 ---
