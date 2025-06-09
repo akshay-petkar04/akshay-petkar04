@@ -28,7 +28,7 @@ I love solving real-world problems through code, exploring new tech, and levelin
 
 <p align="center">
   <a href="https://leetcode.com/u/4uG6WzxeNM/" target="_blank" title="LeetCode">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="48" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="48"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.codechef.com/users/akshay350" target="_blank" title="CodeChef">
@@ -39,6 +39,7 @@ I love solving real-world problems through code, exploring new tech, and levelin
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="48"/>
   </a>
 </p>
+
 
 
 
