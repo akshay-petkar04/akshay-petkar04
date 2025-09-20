@@ -27,7 +27,7 @@ I love solving real-world problems through code, exploring new tech, and levelin
 ### ⚒️ Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/u/4uG6WzxeNM/" target="_blank" title="LeetCode">
+  <a href="https://leetcode.com/u/akshay-petkar/" target="_blank" title="LeetCode">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="48"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
